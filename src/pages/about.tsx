@@ -8,11 +8,17 @@ const About = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
       <p>
-      Mi nombre es Alberto Conejo, Ingeniero en Sistemas, 
-      Graduado en la Universidad Nacional de Costa Rica, este sitio muestra hallazgos interesantes encontrados en el día a día,
-       relacionados con diferentes lenguajes de programación y errores cometidos.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
+        recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
+        labore voluptatibus distinctio recusandae autem esse explicabo molestias
+        officia placeat, accusamus aut saepe.
       </p>
-      
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione fuga
+        recusandae quidem. Quaerat molestiae blanditiis doloremque possimus
+        labore voluptatibus distinctio recusandae autem esse explicabo molestias
+        officia placeat, accusamus aut saepe.
+      </p>
     </Content>
   </Main>
 );
