@@ -7,37 +7,7 @@ import { Main } from '../templates/Main';
 const Contact = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
-      <table>
-
-        <tr>
-          <th>Telefono</th> 
-          
-        </tr>
-        
-
-       <tr>
-        <td> 85981576</td>
-        
-        
-       </tr>
-      
-
-      </table>
-
-      <table>
-
-        <tr>
-         <th> Direccion</th> 
-        </tr>
-        
-
-       <tr>
-
-        <td> Heredia, Costa Rica</td>
-       </tr>
-      
-
-      </table>
+      <p> fjbkldfmb</p>
       
       
       
