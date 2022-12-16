@@ -10,8 +10,7 @@ const About = () => (
       <p>
       Software engineering graduate from the Universidad
       Nacional de Costa Rica.
-      </p>
-      
+      </p>     
     </Content>
   </Main>
 );
