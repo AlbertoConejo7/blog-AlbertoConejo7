@@ -45,11 +45,7 @@ const Main = (props: IMainProps) => (
               </a>
             </li>
           
-            <li className="mr-6">
-              <Link href="/contact/">
-                <a>Contact info</a>
-              </Link>
-            </li>
+            
           </Navbar>
         </div>
       </div>

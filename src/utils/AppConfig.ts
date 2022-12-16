@@ -1,10 +1,10 @@
 export const AppConfig = {
   site_name: 'Starter',
-  title: 'Alberto Conejo Acosta',
+  title: 'Next.js Boilerplate',
   description:
-    'Si lo puedes imaginar, lo puedes programar',
+    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
   url: 'https://example.com',
   locale: 'en',
-  author: 'Alberto Conejo Acosta',
+  author: 'Anonymous',
   pagination_size: 5,
 };
