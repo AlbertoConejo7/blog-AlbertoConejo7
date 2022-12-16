@@ -11,6 +11,7 @@ const About = () => (
       Software engineering graduate from the Universidad
       Nacional de Costa Rica.
       </p>
+      
     </Content>
   </Main>
 );
