@@ -35,9 +35,20 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">
+              <a href="https://github.com/AlbertoConejo7">
                 GitHub
               </a>
+            </li>
+            <li className="mr-6">
+              <a href="https://www.linkedin.com/in/alberto-conejo-acosta-8585341a8/">
+                 Linkedin
+              </a>
+            </li>
+          
+            <li className="mr-6">
+              <Link href="/contact/">
+                <a>Contact info</a>
+              </Link>
             </li>
           </Navbar>
         </div>
@@ -46,17 +57,11 @@ const Main = (props: IMainProps) => (
       <div className="text-xl py-5">{props.children}</div>
 
       <div className="border-t border-gray-300 text-center py-8 text-sm">
-        © Copyright {new Date().getFullYear()} {AppConfig.title}. Powered with{' '}
+        © Copyright {new Date().getFullYear()} {AppConfig.title}. {' '}
         <span role="img" aria-label="Love">
           ♥
         </span>{' '}
-        by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
-        {/*
-         * PLEASE READ THIS SECTION
-         * We'll really appreciate if you could have a link to our website
-         * The link doesn't need to appear on every pages, one link on one page is enough.
-         * Thank you for your support it'll mean a lot for us.
-         */}
+        
       </div>
     </div>
   </div>
