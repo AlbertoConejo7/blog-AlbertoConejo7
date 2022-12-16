@@ -8,7 +8,7 @@ const About = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
       <p> Software engineering graduate from the Universidad Nacional 
-        de Costa Rica. </p>     
+        de Costa Rica </p>     
     </Content>
   </Main>
 );
