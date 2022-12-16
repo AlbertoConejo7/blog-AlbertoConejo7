@@ -4,7 +4,7 @@ import { Content } from '../content/Content';
 import { Meta } from '../layout/Meta';
 import { Main } from '../templates/Main';
 
-const About = () => (
+const Contact = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
       <table>
@@ -23,6 +23,7 @@ const About = () => (
       
 
       </table>
+
       <table>
 
         <tr>
@@ -44,4 +45,4 @@ const About = () => (
   </Main>
 );
 
-export default About;
+export default Contact;
