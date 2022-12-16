@@ -35,16 +35,10 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/AlbertoConejo7">
+              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">
                 GitHub
               </a>
             </li>
-            <li className="mr-6">
-              <a href="https://www.linkedin.com/in/alberto-conejo-acosta-8585341a8/">
-                 Linkedin
-              </a>
-            </li>
-          
             
           </Navbar>
         </div>
