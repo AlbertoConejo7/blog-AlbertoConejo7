@@ -1,9 +1,9 @@
-import React, { ReactNode } from 'react';
+import React, { ReactNode } from "react";
 
-import Link from 'next/link';
+import Link from "next/link";
 
-import { Navbar } from '../navigation/Navbar';
-import { AppConfig } from '../utils/AppConfig';
+import { Navbar } from "../navigation/Navbar";
+import { AppConfig } from "../utils/AppConfig";
 
 type IMainProps = {
   meta: ReactNode;
@@ -45,9 +45,7 @@ const Main = (props: IMainProps) => (
 
       <div className="border-t border-gray-300 text-center py-8 text-sm">
         © Copyright {new Date().getFullYear()} {AppConfig.title}. Powered with{" "}
-        <span role="img" aria-label="Love">
-          ♥
-        </span>{" "}
+        <span role="img" aria-label="Love"> ♥ </span>{" "}
         by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
         {/*
          * PLEASE READ THIS SECTION
