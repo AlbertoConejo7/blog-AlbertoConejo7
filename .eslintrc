@@ -3,15 +3,12 @@
   "extends": [
     "airbnb-base",
     "next/core-web-vitals",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "next"
   ],
   "rules": {
-    "prettier/prettier": [
-      "error",
-      {
-        "singleQuote": false
-      }
-    ]
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
   },
   "overrides": [
     // Configuration for TypeScript files
