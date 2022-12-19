@@ -39,6 +39,11 @@ const Main = (props: IMainProps) => (
                 GitHub
               </a>
             </li>
+            <li className="mr-6">
+              <a href="https://www.linkedin.com/in/alberto-conejo-acosta-8585341a8/">
+                linkedin
+              </a>
+            </li>
           </Navbar>
         </div>
       </div>
