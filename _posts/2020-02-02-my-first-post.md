@@ -7,9 +7,9 @@ image: /assets/images/posts/random-img.jpg
 ---
 
 En las primeras clases de paradigmas de programación me resulto interesante 
-la diferencias entre utilizar un algoritmos iterativos y uno funcionales.
+la diferencias entre utilizar un algoritmos iterativos y funcionales.
 
-Bloque de codigo imperativo
+Bloque de código imperativo
 
 ```js
 
