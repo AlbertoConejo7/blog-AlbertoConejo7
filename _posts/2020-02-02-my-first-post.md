@@ -6,7 +6,7 @@ modified_date: '2020-02-02'
 image: /assets/images/posts/random-img.jpg
 ---
 
-En las primeras clases de paradigmas de programación me resulta interesante 
+En las primeras clases de paradigmas de programación me resulto interesante 
 la diferencias entre utilizar un algoritmo iterativo y uno funcional.
 
 Bloque de codigo imperativo
@@ -19,6 +19,10 @@ for (let i = 0 ; i < ar.length; i++)
  }
 
 ```
+
+
+En la primera solucion imprimimos los estados de la variable global incrementar 
+sumando los valores de arreglo ar
  
 
 
@@ -29,5 +33,5 @@ ar.map(x => incrementar += x)
 
 
 ```
-En la primera solucion 
-en la segunda devolvemos un arreglo con los estados de la variable incrementar
+
+En la segunda devolvemos el arreglo ar sumando los valores de la variable incrementar
